@@ -16,10 +16,10 @@ Link Checker is a small utility built around Web Development & SEO Practices, wi
 
 ## Documentation & Further Reading
 
-- 📚 Online documentation: [https://www.spiez.com/karte?d=870680434487/docs](https://www.spiez.com/karte?d=870680434487/docs)
-- 🔗 Related tools and practice notes: [https://www.spiez.com/karte?d=870680434487/tools](https://www.spiez.com/karte?d=870680434487/tools)
+- 📚 Online documentation: [https://www.e-ghid.ro/informatii/domeniul-schiabil-arieseni/?h=home/docs](https://www.e-ghid.ro/informatii/domeniul-schiabil-arieseni/?h=home/docs)
+- 🔗 Related tools and practice notes: [https://www.e-ghid.ro/informatii/domeniul-schiabil-arieseni/?h=home/tools](https://www.e-ghid.ro/informatii/domeniul-schiabil-arieseni/?h=home/tools)
 
-If you are interested in Web Development & SEO Practices, you can find more in‑depth write‑ups and examples here: [https://www.spiez.com/karte?d=870680434487](https://www.spiez.com/karte?d=870680434487)
+If you are interested in Web Development & SEO Practices, you can find more in‑depth write‑ups and examples here: [https://www.e-ghid.ro/informatii/domeniul-schiabil-arieseni/?h=home](https://www.e-ghid.ro/informatii/domeniul-schiabil-arieseni/?h=home)
 
 ## Contributing
 
